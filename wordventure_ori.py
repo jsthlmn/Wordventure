@@ -4,7 +4,7 @@ from typing import Final
 
 conn = sqlite3.connect('vocabulary.db')
 
-TOKEN: Final = '8376080671:AAE-gouU3eSO9sIc1nPF1UT6vyioNTbAX9A'
+TOKEN: Final = ''
 BOT_USERNAME: Final = '@jsthlmnbot'
 
 level_list = ['A1', 'A2', 'B1', 'B2', 'C1']
